@@ -4,7 +4,7 @@ A Power BI dashboard built on a public supermarket sales dataset (**1,000 invoic
 
 ## Demo
 
-[Watch the dashboard demo video](PASTE-YOUR-VIDEO-LINK-HERE)
+[Watch the dashboard demo video](https://youtu.be/uGZyHK7sao4)
 
 ![Dashboard screenshot](screenshots/dashboard.png)
 
