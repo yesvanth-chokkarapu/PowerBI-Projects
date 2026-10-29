@@ -4,7 +4,7 @@ A Power BI dashboard and a machine-learning model built on the **Pima Indians Di
 
 ## Demo
 
-[Watch the dashboard demo video](PASTE-YOUR-VIDEO-LINK-HERE)
+[Watch the dashboard demo video](https://youtu.be/U1aTj0C90Y0)
 
 ![Dashboard screenshot](screenshots/dashboard.png)
 
