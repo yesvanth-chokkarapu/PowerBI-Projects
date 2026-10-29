@@ -4,7 +4,7 @@ An interactive Power BI report analyzing a survey of **630 data professionals**.
 
 ## Demo
 
-[Watch the dashboard demo video](https://youtu.be/uGZyHK7sao4)
+[Watch the dashboard demo video](https://youtu.be/bhAePzCL_Vs)
 
 ![Dashboard screenshot](screenshots/dashboard.png)
 
